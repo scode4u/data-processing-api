@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# OS
+.DS_Store
+
+# Pytest
+.pytest_cache/
+
+# Streamlit
+.streamlit/
+
+# Data files (optional – recommended)
+data/raw/
+data/processed/
